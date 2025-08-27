@@ -20,7 +20,7 @@
     git push -u origin mi-rama
 
 6. Ir a la rama principal
-    Primero asegurate de estar en main (la rama que va a recibir los cambios:
+    Primero asegurate de estar en main la rama que va a recibir los cambios:
     git switch main
 
 7. Traer los últimos cambios de GitHub (opcional pero recomendable)
