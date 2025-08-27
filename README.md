@@ -41,3 +41,5 @@
     git switch main  # volvés a main
     git branch -d mi-rama  # borra la rama si ya hiciste merge
     git branch -D mi-rama  # fuerza borrar aunque no hayas hecho merge
+
+holis
